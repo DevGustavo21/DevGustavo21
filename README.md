@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DevGustavo21
-- 👀 I’m interested in working as Fronthead Developer
+- 👋 Hi, I’m @DevGustavo21!
+- 👀 I’m interested in working as Fronthead Developer.
 - 🌱 I’m currently learning react, I also have a lot of knowledge about web design and development and layout.
 - 💞️ I’m looking to collaborate in my speciality, web pages.
-- 📫 How to reach me: gustmejiafuentes60@gmail.com
+- 📫 How to reach me: gustmejiafuentes60@gmail.com.
 
 <!---
 DevGustavo21/DevGustavo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
